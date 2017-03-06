@@ -1,2 +1,4 @@
 To jest czwarta poprawka
 Druga linia
+Trzecia linia
+Czwarta Linia
