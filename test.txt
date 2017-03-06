@@ -4,3 +4,5 @@ Trzecia linia
 Czwarta Linia
 Piata linia
 Szosta linia
+7 linia
+8 linia
